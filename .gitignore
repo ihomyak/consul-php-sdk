@@ -2,4 +2,3 @@
 /build/
 /bin/consul/config/data-dir/
 /vendor/
-bin/ export-ignore
